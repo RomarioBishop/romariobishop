@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romario </h1>
-<h3 align="center">I'm learning software and web developer from Barbados</h3>
+<h3 align="center">I'm an aspiring Software Engineer with a love for Web Development from Barbados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romariobishop&label=Profile%20views&color=0e75b6&style=flat" alt="romariobishop" /> </p>
 
