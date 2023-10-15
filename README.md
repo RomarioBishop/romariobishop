@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Romario Bishop</h1>
+<h1 align="center">Hi 👋, I'm Romario </h1>
 <h3 align="center">I'm learning software and web developer from Barbados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romariobishop&label=Profile%20views&color=0e75b6&style=flat" alt="romariobishop" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romariobishop" alt="romariobishop" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Python, Html, CSS, JavaScript, MySql, and Visual Basic**
+- 🌱 I’m currently learning **Java, Python, React, Html, CSS, JavaScript, MySql, and PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RomarioBishop](https://github.com/RomarioBishop)
 
