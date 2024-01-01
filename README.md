@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romariobishop" alt="romariobishop" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Python, React, Html, CSS, JavaScript, MySql, and PHP**
+- 🌱 I’m currently learning **Java, Python, React, Html, CSS, JavaScript, MySql,Node.js and PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RomarioBishop](https://github.com/RomarioBishop)
 
